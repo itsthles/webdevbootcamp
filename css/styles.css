@@ -1,0 +1,44 @@
+body {
+	margin: 0;
+}
+#container {
+	width: 75%;
+	margin: auto;
+}
+#profPic {
+	width: 150;
+	margin: auto;
+}
+
+#header-table {
+	background-color: #DC5F00;
+	margin-bottom: 0;
+}
+
+#header-table p {
+	color: #EEEEEE;
+}
+
+.info {
+	color: #373A40;
+}
+
+hr {
+	height: 15px;
+	border: none;
+	margin-top: 0;
+	background-color: #373A40;
+}
+
+h1 {
+	color: #373A40;
+}
+
+h2, th {
+	color: #686D76;
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+}
